@@ -7,6 +7,6 @@ Releases and code will be posted soon!
 
 # Status
 
-[ ] Code Main Base of Client
-[ ] Add cosmetics
-[ ] Optifine
+- [ ]Code Main Base of Client
+- [ ]Add cosmetics
+- [ ]Optifine
